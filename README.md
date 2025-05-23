@@ -65,7 +65,7 @@ Full-stack application using Next.js. Includes user authentication and real-time
 
 ## Connect
 
-**Email:** jemson.personal@gmail.com](mailto:your.email@example.com)  
+**Email:** jemson.personal@gmail.com
 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
 
