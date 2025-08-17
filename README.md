@@ -1,56 +1,50 @@
-# 👨‍💻 Rogemson Molina  
-
-**`Full-Stack Developer | Web3 Enthusiast | Problem Solver`**  
-
-Crafting seamless digital experiences with **React**, **Next.js**, and **Python**. Passionate about modern design, scalable systems, and the intersection of **web & blockchain** technologies.  
+<h1 align="center">⚡ Rogemson Molina ⚡</h1>
+<p align="center">
+  <i>Software Developer | Frontend Engineer | Web3 Enthusiast</i>
+</p>
 
 ---
 
-## 🛰 About Me  
+## 🖤 About Me  
 
-- 🌍 Based in the **Philippines**  
-- 💻 **2+ years** building modern applications  
-- 🎯 Focus: **Frontend Development**, **Full-Stack Solutions**, **UI/UX Implementation**  
-- ⚡ Currently exploring **Web3 integrations** and advanced **React patterns**  
+I’m a **software developer** from the **Philippines**, passionate about building **modern web apps** with clean design and smooth user experience.  
+I have **2+ years of experience** in full-stack development and I’m currently exploring the **future of Web3 and decentralized apps**.  
+
+- 🎨 Focused on **Frontend & UI/UX**  
+- 🔧 Experienced in **React, Next.js, Tailwind, Python**  
+- 🚀 Exploring **Web3 integrations, smart contracts, and dApps**  
 
 ---
 
 ## 🛠 Tech Stack  
 
-**Frontend**  
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat&logo=javascript&logoColor=white)  
-![React](https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat&logo=next.js&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat&logo=tailwindcss&logoColor=white)  
-
-**Backend / Tools**  
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=node.js&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat&logo=git&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat&logo=figma&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0d1117?style=flat&logo=visualstudiocode&logoColor=white)  
+<p align="center">
+  <code>Frontend → React • Next.js • TailwindCSS • JavaScript</code><br/>
+  <code>Backend → Node.js • Python • REST APIs</code><br/>
+  <code>Tools → Git • Figma • VS Code</code>
+</p>
 
 ---
 
 ## 🚀 Featured Projects  
 
-🔗 **[Project 1](https://github.com/rogemson/project1)**  
-Web app built with **React + Tailwind**, optimized for performance & responsiveness.  
+🔗 **[Modern Web App](https://github.com/rogemson/project1)**  
+Built with **React + Tailwind** for speed and scalability.  
 
-🔗 **[Project 2](https://github.com/rogemson/project2)**  
-**Python** solution tackling [specific problem]. Designed with clean architecture.  
+🔗 **[Python Solution](https://github.com/rogemson/project2)**  
+Clean architecture with efficient algorithms.  
 
-🔗 **[Project 3](https://github.com/rogemson/project3)**  
-**Next.js full-stack** app with authentication + real-time features.  
+🔗 **[Full-Stack Next.js App](https://github.com/rogemson/project3)**  
+Includes authentication + real-time features.  
 
 ---
 
 ## 🎯 Current Focus  
 
-- ⚙️ Building **scalable applications**  
-- 🧩 Learning **advanced React patterns**  
-- 🕸 Exploring **Web3 & smart contracts**  
-- 🌐 Contributing to **open-source**  
+- ⚙ Building **scalable web apps**  
+- 📚 Learning **advanced React patterns**  
+- 🕸 Diving into **Web3 + blockchain**  
+- 💡 Contributing to **open-source projects**  
 
 ---
 
@@ -64,17 +58,15 @@ Web app built with **React + Tailwind**, optimized for performance & responsiven
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogemson&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rogemson&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af" />
-</p>
-
 ---
 
 ## 🌐 Connect  
 
-- ✉️ **Email:** jemson.personal@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🖥 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)  
+<p align="center">
+  <a href="mailto:jemson.personal@gmail.com">✉ Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
+  <a href="https://yourwebsite.com">🌍 Portfolio</a>
+</p>
 
 ---
 
