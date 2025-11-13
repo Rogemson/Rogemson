@@ -93,10 +93,10 @@ Auth0 authentication, real-time database updates, and performance-optimized UI w
 
 ## 🌐 Connect
 
-**Email:** [maree@email.com](mailto:maree@email.com)
-**LinkedIn:** [https://linkedin.com/in/maree-dev](https://linkedin.com/in/maree-dev)
-**GitHub:** [https://github.com/maree](https://github.com/maree)
-**Portfolio:** [https://maree-portfolio.com](https://maree-portfolio.com)
+**Email:** [jemson.personal@gmail.com](mailto:jemson.personal@gmail.com)
+**LinkedIn:** [www.linkedin.com/in/rogemson-molina-5b228b305](www.linkedin.com/in/rogemson-molina-5b228b305)
+**GitHub:** [https://github.com/Rogemson](https://github.com/Rogemson)
+**Portfolio:** [https://molina-rogemson.vercel.app](https://molina-rogemson.vercel.app)
 
 ---
 
