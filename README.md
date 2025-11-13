@@ -1,75 +1,103 @@
-<h1 align="center">⚡ Rogemson Molina ⚡</h1>
-<p align="center">
-  <i>Software Developer | Frontend Engineer | Web3 Enthusiast</i>
-</p>
+# ⚡ Rogemson Molina | Full-Stack Shopify Developer ⚡
+
+***Full-Stack Developer | Shopify Expert | E-commerce Automation Specialist***
 
 ---
 
-## 🖤 About Me  
+## 🖤 About Me
 
-I’m a **software developer** from the **Philippines**, passionate about building **modern web apps** with clean design and smooth user experience.  
-I have **2+ years of experience** in full-stack development and I’m currently exploring the **future of Web3 and decentralized apps**.  
+I'm a full-stack web developer from Sydney, Australia (based in the Philippines), passionate about building high-performance e-commerce solutions and scalable automation workflows.
 
-- 🎨 Focused on **Frontend & UI/UX**  
-- 🔧 Experienced in **React, Next.js, Tailwind, Python**  
-- 🚀 Exploring **Web3 integrations, smart contracts, and dApps**  
+With 3+ years of hands-on development experience, I specialize in headless Shopify architecture, custom integrations, and API automation. I help e-commerce brands scale faster by connecting their systems seamlessly.
 
----
+### 💼 Focused on E-commerce Development & Shopify Plus
 
-## 🛠 Tech Stack  
-
-<p align="center">
-  <code>Frontend → React • Next.js • TailwindCSS • JavaScript</code><br/>
-  <code>Backend → Node.js • Python • REST APIs</code><br/>
-  <code>Tools → Git • Figma • VS Code</code>
-</p>
+* 🔧 Expert in Next.js, React, Node.js, TypeScript, Shopify APIs
+* 🚀 Specialist in API Integrations, Workflow Automation (n8n), Headless Commerce
+* 📊 Experienced with GA4, Performance Optimization, CRO
 
 ---
 
-## 🚀 Featured Projects  
+## 🛠 Tech Stack
 
-🔗 **[Modern Web App](https://github.com/rogemson/project1)**  
-Built with **React + Tailwind** for speed and scalability.  
+### **Frontend**
 
-🔗 **[Python Solution](https://github.com/rogemson/project2)**  
-Clean architecture with efficient algorithms.  
+* React, Next.js, TypeScript, Tailwind CSS, GSAP Animations
 
-🔗 **[Full-Stack Next.js App](https://github.com/rogemson/project3)**  
-Includes authentication + real-time features.  
+### **Backend**
 
----
+* Node.js, Express, Python, GraphQL, REST APIs
 
-## 🎯 Current Focus  
+### **E-commerce & Tools**
 
-- ⚙ Building **scalable web apps**  
-- 📚 Learning **advanced React patterns**  
-- 🕸 Diving into **Web3 + blockchain**  
-- 💡 Contributing to **open-source projects**  
+* Shopify (Theme Development & Headless), Storefront API, Admin API, Liquid
+* n8n Automation, Webhooks, SendGrid, Klaviyo
 
----
+### **Databases & Services**
 
-## 📊 GitHub Stats  
+* PostgreSQL, Firebase, Supabase, Redis, Auth0, Vercel
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rogemson&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=9ca3af&icon_color=ffffff" />
-</p>
+### **Design & Collaboration**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rogemson&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=9ca3af" />
-</p>
+* Figma, Git/GitHub, VS Code, Postman, AWS basics
 
 ---
 
-## 🌐 Connect  
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="mailto:jemson.personal@gmail.com">✉ Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> •
-  <a href="https://yourwebsite.com">🌍 Portfolio</a>
-</p>
+### **🔗 Headless Shopify Store - Zoster**
+
+Built with Next.js + TypeScript + Shopify Storefront API. Features custom product filtering, real-time inventory sync via GraphQL, performance optimizations, and integrated n8n workflows for abandoned cart recovery. Deployed on Vercel.
+
+### **🔗 E-commerce Automation Workflows**
+
+Custom n8n workflows for Shopify automation: abandoned cart emails, customer re-engagement sequences, inventory alerts, and SendGrid integrations.
+
+### **🔗 Shopify Theme Customization**
+
+Custom Liquid themes, enhanced product pages, optimized checkout flows, and conversion improvements.
+
+### **🔗 Full-Stack Next.js App with Auth**
+
+Auth0 authentication, real-time database updates, and performance-optimized UI with modern React patterns.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rogemson&color=grey&style=flat-square" alt="Profile Views" />
-</p>
+## 🎯 Current Focus
+
+* 🏗 Headless Shopify stores for high-value e-commerce clients
+* ⚙ Advanced n8n automation workflows for multi-channel e-commerce
+* 📈 GA4 analytics & conversion optimization
+* 🔗 Shopify Plus & B2B integrations
+* 💡 Exploring SaaS automation tools & workflow builders
+
+---
+
+## 💼 Services
+
+### **For E-commerce Brands:**
+
+* Headless Shopify builds (Next.js + custom frontend)
+* Shopify theme customization & optimization
+* Custom API integrations (ERP, payment gateways, shipping)
+* Performance optimization & SEO
+
+### **For Agencies:**
+
+* Full-stack e-commerce solutions
+* Shopify automation workflows (n8n)
+* Multi-system integrations
+* Recurring technical support
+
+---
+
+## 🌐 Connect
+
+**Email:** [maree@email.com](mailto:maree@email.com)
+**LinkedIn:** [https://linkedin.com/in/maree-dev](https://linkedin.com/in/maree-dev)
+**GitHub:** [https://github.com/maree](https://github.com/maree)
+**Portfolio:** [https://maree-portfolio.com](https://maree-portfolio.com)
+
+---
+
+***Open to freelance projects, full-time opportunities, and collaborations.***
